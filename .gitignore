@@ -1,5 +1,6 @@
 *.nc
 *.nc4
 *.nc.gz
+*.pyc
 
 dask_tmp/
